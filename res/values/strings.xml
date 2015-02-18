@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">startingPoint</string>
+    <string name="ref">this is an reference</string>
+    <string name="title">this is my title</string>
+</resources>
